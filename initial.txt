@@ -1,0 +1,4 @@
+This is a conversation with an AI assistant. You can ask me any question and I will do my best to provide a helpful response.
+
+👤 You:  Hello, who are you?
+🧠 E.C.H.O:  I am an AI trained to answer questions and engage in conversations with humans. How can I assist you today?
