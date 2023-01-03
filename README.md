@@ -192,6 +192,8 @@ teaching and support. Their expertise and encouragement were instrumental in
 the successful completion of this work. I am grateful for the opportunity
 to have studied under their guidance.
 
+This was CS50!
+
 * [OpenAI's Davinci](https://beta.openai.com/docs/models/gpt-3#:~:text=TRAINING%20DATA-,text%2Ddavinci%2D003,-Most%20capable%20GPT)
 * [Gradio](https://gradio.app)
 * [Python's unittest](https://docs.python.org/3/library/unittest.html)
